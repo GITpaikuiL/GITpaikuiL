@@ -7,4 +7,7 @@
 <!---
 GITpaikuiL/GITpaikuiL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+i am  first write the code about c
+my  english very poor
+to make a long story short not even take a look
 --->
